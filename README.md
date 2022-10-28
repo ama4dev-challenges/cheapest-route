@@ -13,6 +13,8 @@ Luckily the Munich Airport (IATA: MUC) is very well connected, so you will be ab
 | **5** | Find the cheapest route from a given airport to the conference |
 | **8** | Find the cheapest route from the airport that is closest of your city of origin.<br />_See [Airport Nearest Relevant](https://developers.amadeus.com/self-service/category/air/api-doc/airport-nearest-relevant)_ |
 | **10** | Find the cheapest route from the airport that is closest of your city of origink and direct connection to Munich.<br />_See [Airport Routes API](https://developers.amadeus.com/self-service/category/air/api-doc/airport-routes)_ |
+| **+3** | DevOps Bonus: Wrap up your tool on a docker image |
+| **+7** | DevOps Bonus: Put your input parameters and API key in an `input.json` and get your code running and printing the result for every commit via Github Actions |
 
 ## Getting started
 You can retrieve your personal API key by following the [Quick Start Guide](https://alonsomoya.github.io/ama4dev/quick-start/)
