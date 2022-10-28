@@ -17,7 +17,9 @@ Luckily the Munich Airport (IATA: MUC) is very well connected, so you will be ab
 | **+7** | DevOps Bonus: Put your input parameters and API key in an `input.json` and get your code running and printing the result for every commit via Github Actions |
 
 ## Getting started
-You can retrieve your personal API key by following the [Quick Start Guide](https://alonsomoya.github.io/ama4dev/quick-start/)
+You can retrieve your personal API key by following the [Quick Start Guide](https://alonsomoya.github.io/ama4dev/quick-start/).
+
+If you are to add your API key to your repository, make sure **the [repository is private](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/managing-repository-settings/setting-repository-visibility#making-a-repository-private)**!
 
 ## Choose your favorite weapon
 
