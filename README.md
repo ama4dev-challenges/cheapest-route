@@ -1,6 +1,6 @@
 # Find the Cheapest Route
 
-In this exercisee you will have to find the cheapest way to **reach the conference** by plane from your place of birth.
+In this exercise you will have to find the cheapest way to **reach the conference** by plane from your place of birth.
 
 Luckily the Munich Airport (IATA: MUC) is very well connected, so you will be able to find an [aiport near your city of birth](https://www.flightconnections.com/flights-from-munich-muc).
 
@@ -10,7 +10,7 @@ Luckily the Munich Airport (IATA: MUC) is very well connected, so you will be ab
 
 | **Points**      | **Challenge** |
 | ----------- | ----------- |
-| **5** | Find the cheapest route from a given airport to the conference |
+| **5** | Find the cheapest route from a given airport to the conference.<br />_See [Flight Offers Search](https://developers.amadeus.com/self-service/category/air/api-doc/flight-offers-search)_ |
 | **8** | Find the cheapest route from the airport that is closest of your city of origin.<br />_See [Airport Nearest Relevant](https://developers.amadeus.com/self-service/category/air/api-doc/airport-nearest-relevant)_ |
 | **10** | Find the cheapest route from the airport that is closest of your city of origink and direct connection to Munich.<br />_See [Airport Routes API](https://developers.amadeus.com/self-service/category/air/api-doc/airport-routes)_ |
 | **+3** | DevOps Bonus: Wrap up your tool on a docker image |
